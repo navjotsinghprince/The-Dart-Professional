@@ -9,7 +9,7 @@ Explore advanced topics, or stay updated with the latest trends with "The Dart P
 
 
 ## Contact
-If you discover any question within The Professional, please send an e-mail to Navjot via [contact@navjotsinghprince.com](mailto:contact@navjotsinghprince.com). Your all questions will be answered.
+If you discover any question within The Dart Professional, please send an e-mail to Navjot via [contact@navjotsinghprince.com](mailto:contact@navjotsinghprince.com). Your all questions will be answered.
 
 
 ## Buy Me A Coffee! :coffee: 
