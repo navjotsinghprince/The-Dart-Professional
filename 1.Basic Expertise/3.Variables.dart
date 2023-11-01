@@ -34,4 +34,8 @@ void main() {
   print("Checking Variable Type");
   print(name.runtimeType);
   print("Checked Variable Type");
+
+  //Round off to two decimal points
+  double prize = 1130.2232323233233; //valid
+  print(prize.toStringAsFixed(2));  //1130.22
 }
