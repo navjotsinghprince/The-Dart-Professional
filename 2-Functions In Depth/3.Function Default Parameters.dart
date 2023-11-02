@@ -37,6 +37,7 @@ String showDetails({String name = 'Navjot Singh', bool isActive = false}) {
   }
 }
 
+
 //Default Parameters Another Use Case
 int add(a, b) {
   a ??= 0; // If 'a' is null, set it to 0
