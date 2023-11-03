@@ -14,5 +14,3 @@ void main() {
     print(list);
     print(names);
 }
-
-
