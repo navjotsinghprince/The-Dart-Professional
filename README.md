@@ -10,7 +10,6 @@ Explore advanced topics, or stay updated with the latest trends with "The Dart P
 ## Contact
 If you discover any question within The Dart Professional, please send an e-mail to Navjot via [contact@navjotsinghprince.com](mailto:contact@navjotsinghprince.com). Your all questions will be answered.
 
-
 ## Buy Me A Coffee! :coffee: 
 Feel free to buy me a coffee at [__Buy me a coffee! :coffee:__]( https://ko-fi.com/princeferozepuria), I would be really grateful for anything, be it coffee or just a kind comment towards my work, that helps me a lot.
 
