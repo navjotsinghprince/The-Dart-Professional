@@ -5,8 +5,7 @@ It offers a diverse range of in-depth learning materials, expert insights, and p
 Explore advanced topics, or stay updated with the latest trends with "The Dart Professional"
 
 ## Author
-:point_right: [Navjot Singh Prince](https://github.com/navjotsinghprince)
-
+:point_right: ***[Navjot Singh Prince](https://github.com/navjotsinghprince)***
 
 ## Contact
 If you discover any question within The Dart Professional, please send an e-mail to Navjot via [contact@navjotsinghprince.com](mailto:contact@navjotsinghprince.com). Your all questions will be answered.
