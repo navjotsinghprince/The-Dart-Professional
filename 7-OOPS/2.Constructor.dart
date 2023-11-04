@@ -25,7 +25,7 @@ void main() {
   
   //Exmaple 2
   Person person1 = Person(name: 'John Doe', age: 30);
-  Person person2 = Person(); // Using default values
+  Person person2 = Person(); // Using Without values
   person1.introduceYourself();
   person2.introduceYourself();
 }
