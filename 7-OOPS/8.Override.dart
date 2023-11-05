@@ -1,4 +1,6 @@
-// Subclasses can override the behavior of the parent class.
+//You can use the @override annotation to indicate that you are intentionally overriding a member:
+//Subclasses can override the behavior of the parent class.
+
 class Employee {
   void salary() {
     print("Employee salary is \$1000.");
