@@ -21,7 +21,7 @@ void main() {
   } while (x < 3);
 
   
-  //Dart supports the forEach method for iterable objects like lists and maps.
+  //The forEach loop for iterable objects like lists and maps.
   List<String> fruits = ["Prince", "Feozepuria", "Navjot"];
   fruits.forEach((fruit) {
     print("Fruit: $fruit");
